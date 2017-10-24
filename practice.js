@@ -7,7 +7,10 @@
 //Create an object called me. Give it a key of name with the value being your name, and another key of age with the value being your age. Then alert your name using dot notation.
 
   //Code here
-
+  var me = {
+    name: 'nathan',
+    age: 26
+  };
 
 
 
@@ -21,7 +24,14 @@
 //Make a 'favoriteThings' object that contains the following keys: band, food, person, book, movie, holiday. Have the values to those keys be your favorite thing in that category.
 
   //Code here
-
+  var favoriteThings = {
+    band: 'the doors',
+    food: 'jello',
+    person: 'tessa',
+    book: 'fidei maiorum nostrorum defensio'
+    movie: 'the fellowship of the ring',
+    holiday: 'thanksgiving'
+  };
 
 
 
